@@ -1,0 +1,101 @@
+id,name,price
+1,Laptop,9000
+2,TV,3930
+3,Headphones,3114
+4,SmartPhone,8833
+5,SmartWatch,2605
+6,Speakers,5640
+7,Portable Speakers,4598
+8,Phone Charger,3392
+9,Battery,9134
+10,Tablet,2565
+11,AC,8892
+12,Fan,4875
+13,Fridge,2066
+14,Electric Razor,9237
+15,Electric kettle,3733
+16,Freezer,3634
+17,Heater,9947
+18,Ice maker,7261
+19,Wine Cooler,3681
+20,Microwave Oven,7653
+21,Convention oven,4663
+22,Induction cooktop,4949
+23,Electric grill,7534
+24,Washing Machine,8808
+25,Clothes dryer,2282
+26,Dishwasher,4684
+27,Steam iron,3919
+28,Water Heater,3383
+29,Water purifier,5354
+30,Air purifier,9886
+31,Space heater,8485
+32,Blender,8201
+33,Toaster,158
+34,Coffee maker,2892
+35,Vaccum Cleaner,7941
+36,Humidifier,196
+37,Dehumidifier ,5137
+38,Hair Dryer,8473
+39,Hair Straightner,5949
+40,Hair Curler,3254
+41,Electri toothbrush ,310
+42,Sewing Machine,4791
+43,Electric toothbrush ,4811
+44,Kitchen stoves,1255
+45,Rice Cookers,9090
+46,Roti Makers,4439
+47,Steamers Ovens,1942
+48,Radiators,1799
+49,Crock Pots,3600
+50,Kitchen Hoods,886
+51,Food Processors,9926
+52,Deep Fryers,5928
+53,Air Fryers,210
+54,Food Dehydrators,7901
+55,Electric Drills,4014
+56,Lamp,3381
+57,LightBulb,7439
+58,Lantern,8680
+59,Torch ,1585
+60,Evaporative cooler,9949
+61,Waffle Iron,9889
+62,Alexa ,6151
+63,Cortono,5527
+64,Amazon fire stick,7469
+65,Joy stick,1607
+66,Keyboard,8810
+67,CPU,3805
+68,Mouse,8314
+69,Monitor,6595
+70,USB Cable,2948
+71,Laptop Charger,6580
+72,Clock ,8027
+73,Calculator,8107
+74,Printer,9590
+75,Scanner,3741
+76,Robotic Cleaner,8421
+77,TV Remote,7500
+78,AC Remote,3978
+79,Radio,1192
+80,DVD Player,3560
+81,DoorBell,1710
+82,DoorBell Camera,2870
+83,DSLR Camera,6631
+84,Mini Camera,3742
+85,Fax Machine,5401
+86,Home Phone,3095
+87,Threadmill,4652
+88,Cycler,7621
+89,Projector,7600
+90,Tubelight,7011
+91,juicer ,7464
+92,Table Fan ,6190
+93,Portable Fan,487
+94,Smoke Detecter,4726
+95,Fire Alarm,549
+96,Alarm Clock,6146
+97,HotPlate,3305
+98,CCTV Camera ,1069
+99,Weighing Machine,6569
+100,Leaf Blower,6597
